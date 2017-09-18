@@ -23,7 +23,7 @@ button {
 }
 
 .mean path {
-	stroke-dasharray: 3;
-	stroke: grey;
+	stroke-dasharray: 3; 
+	stroke: grey; 
 	stroke-width: 1px;
 }
